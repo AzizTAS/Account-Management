@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a553cb55-301d-47bd-a2f1-72a971c6d576" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/AccountApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/dto/AccountCustomerDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/dto/AccountDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/dto/CreateAccountRequest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/dto/CustomerAccountDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/dto/CustomerDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/dto/TransactionDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/dto/converter/AccountDtoConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/dto/converter/CustomerAccountDtoConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/dto/converter/CustomerDtoConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/dto/converter/TransactionDtoConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/exception/CustomerNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/exception/GeneralExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/model/Account.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/model/Customer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/model/Transaction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/repository/AccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/repository/TransactionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myfirstfullstack/account/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstfullstack/account/AccountApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstfullstack/account/IntegrationTestSupport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstfullstack/account/TestSupport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstfullstack/account/controller/AccountControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstfullstack/account/controller/CustomerControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstfullstack/account/service/CustomerServiceTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2cKMy1LlXmF0wmhj4jc3smeI9M7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.Dockerfile.executor": "Run",
+    "Docker.docker-compose.yaml.app: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yaml: Compose Deployment.executor": "Run",
+    "JUnit.AccountControllerTest.executor": "Run",
+    "JUnit.AccountControllerTest.testCreateAccount_whenCustomerIdExits_shouldCreateAccountAndReturnAccountDto.executor": "Run",
+    "JUnit.CustomerControllerTest.executor": "Run",
+    "Maven.account-api [org.jetbrains.kotlin:kotlin-maven-plugin:1.5.0-M2:compile].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.AccountApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/comve/IdeaProjects/account/account-backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.myfirstfullstack.account.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AccountApplication">
+    <configuration name="AccountControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myFirstFullStack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfirstfullstack.account.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myfirstfullstack.account.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstfullstack.account.controller.AccountControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountControllerTest.testCreateAccount_whenCustomerIdExits_shouldCreateAccountAndReturnAccountDto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myFirstFullStack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfirstfullstack.account.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myfirstfullstack.account.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstfullstack.account.controller.AccountControllerTest" />
+      <option name="METHOD_NAME" value="testCreateAccount_whenCustomerIdExits_shouldCreateAccountAndReturnAccountDto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myFirstFullStack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfirstfullstack.account.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myfirstfullstack.account.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstfullstack.account.controller.CustomerControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="myFirstFullStack" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myfirstfullstack.account.AccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml.app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="app" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yaml.app: Compose Deployment" />
+        <item itemvalue="JUnit.AccountControllerTest.testCreateAccount_whenCustomerIdExits_shouldCreateAccountAndReturnAccountDto" />
+        <item itemvalue="JUnit.CustomerControllerTest" />
+        <item itemvalue="JUnit.AccountControllerTest" />
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a553cb55-301d-47bd-a2f1-72a971c6d576" name="Changes" comment="" />
+      <created>1707856067377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707856067377</updated>
+      <workItem from="1707856068526" duration="932000" />
+      <workItem from="1707904791439" duration="1940000" />
+      <workItem from="1707915733596" duration="347000" />
+      <workItem from="1707927042579" duration="1085000" />
+      <workItem from="1708010283617" duration="1141000" />
+      <workItem from="1708011938098" duration="5588000" />
+      <workItem from="1708085066833" duration="4812000" />
+      <workItem from="1708173619903" duration="109000" />
+      <workItem from="1708173760453" duration="2206000" />
+      <workItem from="1708203764344" duration="2225000" />
+      <workItem from="1708242754464" duration="9578000" />
+      <workItem from="1708256514466" duration="1797000" />
+      <workItem from="1708330999402" duration="1440000" />
+      <workItem from="1708361960993" duration="876000" />
+      <workItem from="1708545290392" duration="46000" />
+      <workItem from="1708624494732" duration="11000" />
+      <workItem from="1708624567525" duration="239000" />
+      <workItem from="1708624844203" duration="853000" />
+      <workItem from="1708678025139" duration="3077000" />
+      <workItem from="1708692661982" duration="2468000" />
+      <workItem from="1708695577817" duration="674000" />
+      <workItem from="1708696261119" duration="873000" />
+      <workItem from="1708697143118" duration="1338000" />
+      <workItem from="1708939465506" duration="1171000" />
+      <workItem from="1709163480528" duration="22000" />
+      <workItem from="1709209794175" duration="5918000" />
+      <workItem from="1709216421772" duration="3159000" />
+      <workItem from="1709220894969" duration="1809000" />
+      <workItem from="1709223073230" duration="213000" />
+      <workItem from="1709223652902" duration="37000" />
+      <workItem from="1709223903041" duration="636000" />
+      <workItem from="1709238906627" duration="400000" />
+      <workItem from="1709281708647" duration="2779000" />
+      <workItem from="1709294112366" duration="196000" />
+      <workItem from="1709294593368" duration="329000" />
+      <workItem from="1709373900710" duration="1103000" />
+      <workItem from="1709376974455" duration="1565000" />
+      <workItem from="1709399998776" duration="4366000" />
+      <workItem from="1709658931275" duration="2128000" />
+      <workItem from="1709661075679" duration="2596000" />
+      <workItem from="1710259118301" duration="481000" />
+      <workItem from="1710259621802" duration="44000" />
+      <workItem from="1710259674507" duration="52000" />
+      <workItem from="1710259736393" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
