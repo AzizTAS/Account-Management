@@ -53,8 +53,6 @@ public class AccountService {
 
     private LocalDateTime getLocalDateTimeNow() {
         Instant instant = clock.instant();
-        return LocalDateTime.ofInstant(
-                instant,
-                Clock.systemDefaultZone().getZone());
+        return LocalDateTime.ofInstant(instant, clock.getZone());
     }
 }

@@ -33,7 +33,7 @@ public class CustomerService {
         return converter.convertToCustomerDto(findCustomerById(customerId));
     }
 
-    public List<CustomerDto> getAllCustomer() {
+    public List<CustomerDto> getAllCustomers() {
 
         return customerRepository.findAll()
                 .stream()
