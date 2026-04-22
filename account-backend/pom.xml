@@ -8,8 +8,8 @@
 		<version>2.5.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.myfirstfullstack</groupId>
-	<artifactId>myFirstFullStack</artifactId>
+	<groupId>com.aziztas</groupId>
+	<artifactId>account-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>account</name>
 	<description>Demo project for Spring Boot</description>
